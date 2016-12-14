@@ -1,10 +1,12 @@
-The goal of this project is to demonstrate the NPM module api-call-merger ( https://www.npmjs.com/package/api-call-merger ). On npmjs.org you also can read more info and how to use this module.
+The goal of this project is to demonstrate the NPM module api-call-merger ( https://www.npmjs.com/package/api-call-merger ). Please read full description on npmjs.org
+
 
 To test module just do few commands: 
 
 1) cd PROJECT_NAME
 
 2) mocha tests.js
+
 
 This project includes few files:
 
@@ -19,9 +21,10 @@ This project includes few files:
 
 Work of this module you can try yourself:
 
-1) forever run existingAPI.js
+1) forever start existingAPI.js
 
-2) forever run app.js
+2) forever start app.js
+
 
 or on my website.
 

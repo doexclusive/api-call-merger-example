@@ -1,17 +1,26 @@
-The goal of this project is to demonstrate the NPM module api-call-merger ( https://www.npmjs.com/package/api-call-merger ). On this website you also can read info and how to use this one.
+The goal of this project is to demonstrate the NPM module api-call-merger ( https://www.npmjs.com/package/api-call-merger ). On npmjs.org you also can read more info and how to use this module.
 
 To test module just do few commands: 
+
 1) cd PROJECT_NAME
+
 2) mocha tests.js
 
 This project includes few files:
+
 1) existingAPI.js - this is for emulating exiting API
+
 2) app.js - This is an example of some project that use api-call-merger
+
 3) tests.js - file to run Mocha's test
+
 4) node_modules/api-call-merger/index.js - is module's source
 
+
 Work of this module you can try yourself:
+
 1) forever run existingAPI.js
+
 2) forever run app.js
 
 or on my website.
